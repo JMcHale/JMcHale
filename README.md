@@ -2,7 +2,10 @@
 - 👀 I’m looking to learn a wide range of software to begin applying programming and computer systems to my Projects
 - 🌱 I’m currently completing the CS50x, freecodecamp, and theodinproject
 
-Tech Stack: <b>HTML, CSS, C</b>
+Language toolbox: 
+- HTML - Intermediate
+- CSS - Intermediate
+- C - Beginner
 
 <!---
 JMcHale/JMcHale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
