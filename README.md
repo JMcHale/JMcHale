@@ -1,11 +1,17 @@
 - 👋 Hi, I’m @JMcHale
 - 👀 I’m looking to learn a wide range of software to begin applying programming and computer systems to my Projects
-- 🌱 I’m currently completing the CS50x, freecodecamp, and theodinproject
+- 🌱 I’m currently completing CS50x, freecodecamp, and theodinproject
 
 Language toolbox: 
-- HTML - Intermediate
-- CSS - Intermediate
-- C - Beginner
+- HTML
+- CSS
+  - Bootstrap
+- C
+- Python
+- SQL
+- Javascript
+- Flask
+- Jinja
 
 <!---
 JMcHale/JMcHale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
