@@ -5,9 +5,6 @@
 Currently...
 - Doing a PhD at the University of Leeds
 
-Looking for:
-- Work that can fit around said PhD, either on a flex basis or part-time
-
 Qualifications:
 - CS50 Introduction to Computer Science
 - MEng Chemical Engineering
