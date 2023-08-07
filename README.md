@@ -1,18 +1,15 @@
 - 👋 Hi, I’m @JMcHale
 - 👀 II love making things, learning, and continuously improving everything I do
-- 🌱 I'm always looking for opportunities, and at the moment am horribly interested in anything data or code
+- 🌱 At the moment am horribly interested in digital twins and using them to improve the way we look at optimising physical processes
 
 Currently...
 - Doing a PhD at the University of Leeds
 
 Qualifications:
-- CS50 Introduction to Computer Science
 - MEng Chemical Engineering
+- CS50 Introduction to Computer Science
 
 Language toolbox: 
-- HTML
-- CSS
-  - Bootstrap
 - C
 - Python
 - SQL
