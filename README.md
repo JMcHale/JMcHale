@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JMcHale
 - 👀 II love making things, learning, and continuously improving everything I do
-- 🌱 At the moment am horribly interested in digital twins and using them to improve the way we look at optimising physical processes
+- 🌱 At the moment I am interested in digital twins and using them to improve the way we look at optimising physical processes
 
 Currently...
 - Doing a PhD at the University of Leeds
